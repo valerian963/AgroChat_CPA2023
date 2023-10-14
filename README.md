@@ -10,10 +10,8 @@
 
 ## Detalhes
 <!--ts-->
-   * [Vídeo Pitch](https://youtube.com/shorts/igeE1SR0M9I?feature=share)
-      * [Subtopico](#subtopico)
-
-   * [Vídeo Demo](#video-demo)
+   * [Vídeo Pitch](#)
+   * [Vídeo Demo](https://youtube.com/shorts/igeE1SR0M9I?feature=share)
    * [Apresentação](#apresentacao)
    * [Ferramentas](#ferramentas)
       * [Subtopico](#subtopico)
