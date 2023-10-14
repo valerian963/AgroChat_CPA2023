@@ -1,8 +1,8 @@
-# AgroChat_CPA2023
+# AgroChat
 
 <div align="center">
 <img src="Logo_AgroChat.JPG" alt="Logo" >
-<p align="center">Desafio Hackathon SERPEO da CPAmazônia 2023</p>
+<p align="center">Desafio Hackathon SERPRO da CPAmazônia 2023</p>
 </div>
 
 ## Descrição 
@@ -15,13 +15,14 @@
 
    * [Vídeo Demo](#video-demo)
    * [Apresentação](#apresentacao)
-   * [Tecnologias](#tecnologias)
+   * [Ferramentas](#ferramentas)
+      * [Subtopico](#subtopico)
 <!--te-->
 ## Colaboradores
 <table>
   <tr>
     <td align="center">
-      <a href="http://github.com/teodororo"> 
+      <a href="http://github.com/u/64561542"> 
         <img src="https://avatars.githubusercontent.com/<teodororo>" width="100px;" alt="Foto de Giovanna no GitHub"/><br>
         <sub>
         <sub>
@@ -32,11 +33,22 @@
   </tr>
    <tr>
     <td align="center">
-      <a href="http://github.com/valerian963"> 
-        <img src="https://avatars.githubusercontent.com/<teodororo>" width="100px;" alt="Foto de Valéria no GitHub"/><br>
+      <a href="http://github.com/kaiqu3santos"> 
+        <img src="https://avatars.githubusercontent.com/<teodororo>" width="100px;" alt="Foto de Kaique no GitHub"/><br>
         <sub>
         <sub>
-          <b>valerian963</b>
+          <b>kaiqu3santos</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+<tr>
+    <td align="center">
+      <a href="http://github.com/u/64561542"> 
+        <img src="https://avatars.githubusercontent.com/<teodororo>" width="100px;" alt="Foto de Giovanna no GitHub"/><br>
+        <sub>
+        <sub>
+          <b>teodororo</b>
         </sub>
       </a>
     </td>
