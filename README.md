@@ -42,11 +42,11 @@
   </tr>
 <tr>
     <td align="center">
-      <a href="http://github.com/u/64561542"> 
-        <img src="https://avatars.githubusercontent.com/<teodororo>" width="100px;" alt="Foto de Giovanna no GitHub"/><br>
+      <a href="http://github.com/ramonfava"> 
+        <img src="https://avatars.githubusercontent.com/<teodororo>" width="100px;" alt="Foto de Ramon no GitHub"/><br>
         <sub>
         <sub>
-          <b>teodororo</b>
+          <b>ramonfava</b>
         </sub>
       </a>
     </td>
@@ -54,3 +54,4 @@
         </table>
           
 ## Status
+Em andamento
