@@ -18,10 +18,17 @@
   <tr>
     <td align="center">
       <a href="http://github.com/teodororo"> 
-        <img src="(https://avatars.githubusercontent.com/<teodororo>)" width="100px;" alt="Foto de Giovanna no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/<teodororo>" width="100px;" alt="Foto de Giovanna no GitHub"/><br>
         <sub>
         <sub>
           <b>teodororo</b>
+        </sub>
+      </a>
+          <a href="http://github.com/valerian963"> 
+        <img src="https://avatars.githubusercontent.com/<valerian963>" width="100px;" alt="Foto de Valéria no GitHub"/><br>
+        <sub>
+        <sub>
+          <b>valerian963</b>
         </sub>
       </a>
     </td>
