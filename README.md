@@ -14,7 +14,8 @@
    * [Vídeo Demo](https://youtube.com/shorts/igeE1SR0M9I?feature=share)
    * [Apresentação](#apresentacao)
    * [Ferramentas](#ferramentas)
-      * [Subtopico](#subtopico)
+      * <a href="https://github.com/EdsonBueno/infinite_scroll_pagination" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/platform-flutter-ff69b4.svg" alt="Flutter Platform Badge"></a>
+
 <!--te-->
 ## Colaboradores
 <table>
