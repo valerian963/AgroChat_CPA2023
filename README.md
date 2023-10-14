@@ -19,6 +19,7 @@
 <!--te-->
 ## Colaboradores
 <table>
+  
   <tr>
     <td align="center">
       <a href="http://github.com/u/64561542"> 
@@ -30,6 +31,18 @@
       </a>
     </td>
   </tr>
+<tr>
+    <td align="center">
+      <a href="http://github.com/valerian963"> 
+        <img src="https://avatars.githubusercontent.com/<teodororo>" width="100px;" alt="Foto de Valéria no GitHub"/><br>
+        <sub>
+        <sub>
+          <b>valerian963</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+          
    <tr>
     <td align="center">
       <a href="http://github.com/kaiqu3santos"> 
