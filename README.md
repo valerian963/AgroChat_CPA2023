@@ -18,6 +18,8 @@
   <tr>
     <td align="center">
       <a href="http://github.com/teodororo"> 
+        <img src="(https://avatars.githubusercontent.com/<teodororo>)" width="100px;" alt="Foto de Giovanna no GitHub"/><br>
+        <sub>
         <sub>
           <b>teodororo</b>
         </sub>
