@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626764949222",
+    "project_id": "agrochat-4ce09",
+    "storage_bucket": "agrochat-4ce09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626764949222:android:4a8279ccac184a696d7d27",
+        "android_client_info": {
+          "package_name": "com.mycompany.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtEOoVaZY1JjXaJ9oiQ4bM4Jljq05clwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
