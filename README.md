@@ -10,7 +10,7 @@
 
 ## Detalhes
 <!--ts-->
-   * [Vídeo Pitch](#video-pitch)
+   * [Vídeo Pitch](https://youtube.com/shorts/igeE1SR0M9I?feature=share)
       * [Subtopico](#subtopico)
 
    * [Vídeo Demo](#video-demo)
