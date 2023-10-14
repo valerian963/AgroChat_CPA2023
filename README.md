@@ -24,8 +24,12 @@
           <b>teodororo</b>
         </sub>
       </a>
-          <a href="http://github.com/valerian963"> 
-        <img src="https://avatars.githubusercontent.com/<valerian963>" width="100px;" alt="Foto de Valéria no GitHub"/><br>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <a href="http://github.com/valerian963"> 
+        <img src="https://avatars.githubusercontent.com/<teodororo>" width="100px;" alt="Foto de Valéria no GitHub"/><br>
         <sub>
         <sub>
           <b>valerian963</b>
@@ -33,5 +37,6 @@
       </a>
     </td>
   </tr>
-</table>
+        </table>
+          
 ## Status
